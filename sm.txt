@@ -1,0 +1,17 @@
+$orderInfo = '<C>测试123456</C><BR>';
+$orderInfo .= '名称　　　　　 单价  数量 金额<BR>';
+$orderInfo .= '--------------------------------<BR>';
+$orderInfo .= '饭　　　　　 　10.0   10  100.0<BR>';
+$orderInfo .= '炒饭　　　　　 10.0   10  100.0<BR>';
+$orderInfo .= '蛋+饭　　　　 10.0   10  100.0<BR>';
+$orderInfo .= '鸡蛋炒饭　　　 10.0   10  100.0<BR>';
+$orderInfo .= '西红柿炒饭　　 10.0   10  100.0<BR>';
+$orderInfo .= '西红柿蛋炒饭　 10.0   10  100.0<BR>';
+$orderInfo .= '西红柿鸡蛋炒饭 10.0   10  100.0<BR>';
+$orderInfo .= '--------------------------------<BR>';
+$orderInfo .= '备注：加辣<BR>';
+$orderInfo .= '合计：123.0元<BR>';
+$orderInfo .= '送货地点：广州市白云区平沙南街44号力创共享B栋305<BR>';
+$orderInfo .= '联系电话：15815649824<BR>';
+$orderInfo .= '订餐时间：2023-08-08 08:08:08<BR>';
+$orderInfo .= '<QRCODE>https://slpos.kosm.com.cn/ypps/ps/ckz/shangpeng/qr.png</QRCODE>';
